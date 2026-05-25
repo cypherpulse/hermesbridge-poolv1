@@ -1,4 +1,4 @@
-# Hermès Bridge Pool v2 - GitHub Distributions
+# Hermès Bridge Pool v2
 
 <div align="center">
 
