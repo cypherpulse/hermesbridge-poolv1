@@ -1,0 +1,5 @@
+# Seed note
+
+PR: refactor: modularize pool authorization helpers
+Scope: security
+Timestamp: 2026-05-28T02:53:09Z
